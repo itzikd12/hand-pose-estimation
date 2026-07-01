@@ -20,3 +20,6 @@ wandb/
 
 # OS
 .DS_Store
+
+# Model weights (large files, don't commit)
+*.pt
